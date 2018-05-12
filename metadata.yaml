@@ -1,0 +1,40 @@
+_repo: Women-Painters-of-the-WorldFrom-the-Time-of-Caterina-Vigri-1413-1463-to-Rosa-Bonheur-and-the-__39000
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39000-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Sparrow, Walter Shaw
+    aliases:
+    - Shaw-Sparrow, Walter
+    - Sparrow, W. Shaw (Walter Shaw)
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '39936'
+    url: http://www.gutenberg.org/2009/agents/39936
+description: ''
+gutenberg_issued: '2012-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women painters -- Biography'
+- !lcc 'ND'
+- !lcsh 'Painting -- History'
+tableOfContents: Women painters in Italy since the fifteenth century / Walter Shaw
+  Sparrow -- Early British women painters / Walter Shaw Sparrow -- Modern British
+  women painters / Ralph Peacock -- Women painters in the United States of America
+  / Walter Shaw Sparrow -- Of women painters in France / Léonce Bénédite, translated
+  into English by Edgar Preston -- Women painters in Belgium and in Holland / N. Jany,
+  translated into English by Edgar Preston -- Women painters in Germany and Austria,
+  in Russia, Switzerland and Spain / Wilhelm Schölermann, translated into English
+  by Wilfrid Sparroy -- Some Finnish women painters / Helena Westermarck.
+title: 'Women Painters of the World
+
+  From the Time of Caterina Vigri, 1413-1463, to Rosa Bonheur and the Present Day'
+url: http://www.gutenberg.org/ebooks/39000
