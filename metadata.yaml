@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39936'
     url: http://www.gutenberg.org/2009/agents/39936
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39000#Women-Painters-of-the-WorldFrom-the-Time-of-Caterina-Vigri-1413-1463-to-Rosa-Bonheur-and-the-_
 gutenberg_issued: '2012-03-23'
 gutenberg_type: Text
 identifiers:
